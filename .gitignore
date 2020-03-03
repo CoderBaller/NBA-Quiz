@@ -1,0 +1,7 @@
+.packages
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+/build/
+/android/app/google-services.json
+/android/app/src/main/res/values/strings.xml
